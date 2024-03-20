@@ -14,8 +14,6 @@ def main() -> None:
         db_config = json.load(f)['database_config']
     db = MySQL(**db_config)
 
-    #
-
 
 if __name__ == '__main__':
     start = perf_counter()

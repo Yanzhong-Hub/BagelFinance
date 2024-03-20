@@ -8,7 +8,7 @@ import os
 import json
 from unittest import TestCase
 from BagelFinance.database import Database, MySQL
-from sqlalchemy import Engine, text
+from sqlalchemy import text
 
 
 class TestDatabase(TestCase):

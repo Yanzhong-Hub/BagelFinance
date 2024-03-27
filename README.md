@@ -14,3 +14,4 @@ pip install BagelFinance
 
 - [Database](<Docs/Database module doc.md>)
 - [Query](<Docs/Query module doc.md>)
+- [Backtest](<Docs/Backtest module doc.md>)
